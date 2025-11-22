@@ -1,0 +1,16 @@
+{
+  "short_name": "ZenDestiny",
+  "name": "ZenDestiny AI - BaZi Calculator",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#1c1917",
+  "background_color": "#fdfbf7"
+}
